@@ -1,7 +1,7 @@
 ## Operating Systems Project
 # Client and Server Communication using shared memory
 
-- Implemented the following steps 
+- Implemented the following steps :
 1. The server initiates and creates the connect channel.
 2. The server receives a register request on the connect channel.
  a. On successful creation of a comm channel for a client
