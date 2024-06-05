@@ -1,5 +1,5 @@
 ## Operating Systems Project
-# Client and Server Communication using shared memory
+# Client and Server Communication using Shared Memory & Mutex Locks
 
 - Implemented the following steps :
 1. The server initiates and creates the connect channel.
