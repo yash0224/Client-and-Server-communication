@@ -1,6 +1,7 @@
 ## Operating Systems Project
 # Client and Server Communication using Shared Memory & Mutex Locks
 
+- Using Interprocess Communication
 - Implemented the following steps :
 1. The server initiates and creates the connect channel.
 2. The server receives a register request on the connect channel.
